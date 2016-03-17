@@ -23,9 +23,9 @@ public class Test11 {
     @Before
     public void setUp() throws Exception {
 
-        System.setProperty("webdriver.chrome.driver", ".\\lib\\chromedriver.exe");
-        driver = new ChromeDriver();
-       //driver = new FirefoxDriver();
+        //System.setProperty("webdriver.chrome.driver", ".\\lib\\chromedriver.exe");
+        //driver = new ChromeDriver();
+       driver = new FirefoxDriver();
         baseUrl = "https://sso.dinghuo123.com/login?service=ydh-web";
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
