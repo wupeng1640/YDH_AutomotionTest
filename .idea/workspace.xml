@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d95912a0-7e48-445b-aa16-0ef40853e9e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.test.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.test.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.test.Test11.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.test.Test11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/test/Test11.java" afterPath="$PROJECT_DIR$/src/test/java/com/test/Test11.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.test.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.test.AppTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.test.Test11.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.test.Test11.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.iml" afterPath="$PROJECT_DIR$/demo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\WEB_Automotion_TestNG_Git_Jenkins_Log\demo\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_50_0.xml" />
-      <change type="MOVED" beforePath="E:\WEB_Automotion_TestNG_Git_Jenkins_Log\demo\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_50_0.xml" />
-      <change type="MOVED" beforePath="E:\WEB_Automotion_TestNG_Git_Jenkins_Log\demo\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_50_0.xml" />
-    </list>
+    <list default="true" id="d95912a0-7e48-445b-aa16-0ef40853e9e8" name="Default" comment="" />
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,8 +47,8 @@
       <file leaf-file-name="Test11.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Test11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4296636">
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.6513761">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -765,12 +753,12 @@
       <workItem from="1458014598204" duration="6494000" />
       <workItem from="1458089715270" duration="1313000" />
       <workItem from="1458107567507" duration="2932000" />
-      <workItem from="1458183869889" duration="10671000" />
+      <workItem from="1458183869889" duration="10908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21410000" />
+    <option name="totallyTimeSpent" value="21647000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -939,8 +927,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Test11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4296636">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.6513761">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
